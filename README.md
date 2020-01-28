@@ -38,7 +38,7 @@ To-do list:
 * [Node JS 10+](https://nodejs.org/en/download/) 
 * [NPM 5+](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 
-## Executando o aplicativo
+## Running the application
 
 ### 1. Install the dependencies:
 
