@@ -24,6 +24,10 @@ RPG board game manager for masters and players. Control the scenarios, add enemi
 * The user is redirect to Login page.
 * After fake login, the user is redirect to HomeScreen.
 
+## Illustrations
+
+   - You can click here to see more of my [illustrations](https://artstation.com/klauber)
+
 ## To-do list:
 
    - Add Auth using [AWS Amplify Auth](https://github.com/klauberfreitas/Modelo-Amplify.git/)
@@ -65,9 +69,12 @@ $ expo start --ios
 $ expo start --android 
 ```
 
-## Licença
+## License
 
 MIT © [Klauber Freitas](https://github.com/oikabin)
+The illustrations copyright are not included within this package. 
+
+
 
 
 
