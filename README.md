@@ -1,6 +1,8 @@
 # Full RPG Board game app prototype | From UI/UX to codding
 
-RPG board game manager for masters and players. Control the scenarios, enemies and NPC of each game phase. Up to a master and 5 players.
+RPG board game manager for masters and players. Control the scenarios, add enemies and NPC of each game phase. Up to a master and 5 players**.
+
+**concept only
 
 * Framework: [React Native](https://facebook.github.io/react-native/).
 * Navigation: [React-navigation](https://reactnavigation.org/).
@@ -19,12 +21,19 @@ RPG board game manager for masters and players. Control the scenarios, enemies a
 ![Example](https://user-images.githubusercontent.com/10797704/73145608-56db4b00-408d-11ea-8adc-7bb4595647bb.gif)
 
 * The application starts with standard splash art and then proceeds to walkthrough.
-* The user is redirect to Login page 
-* After fake login, the user is redirect to HomeScreen
+* The user is redirect to Login page.
+* After fake login, the user is redirect to HomeScreen.
 
-To-do list:
-   - Add Auth using [AWS Amplify Auth](https://github.com/klauberfreitas/Modelo-Amplify.git/) 
+## To-do list:
 
+   - Add Auth using [AWS Amplify Auth](https://github.com/klauberfreitas/Modelo-Amplify.git/)
+   - Add image gallery.
+   - Review the overall design for a more concise version.
+
+## Observations: 
+
+   - This package is still under development. 
+     Some features have not yet been added, or are different from those presented. 
   
 ## Componetized and stylized
 
